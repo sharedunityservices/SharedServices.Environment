@@ -1,0 +1,15 @@
+{
+  "name": "com.sharedunityservices.environment",
+  "displayName": "SharedServices.Environment",
+  "version": "1.0.0",
+  "description": "<b>Dependencies:</b> https://github.com/sharedunityservices/SharedServices..Core.git\n\n<b>SharedServices.Environment</b> is a package that provides a service for managing the environment of the application. It provides a way to get the current environment of the application and also provides a way to set the environment of the application. The package also provides a way to get the environment of the application from the command line arguments.",
+  "unity": "2020.1",
+  "author": {
+    "name": "ETdoFresh",
+    "email": "etdofresh@gmail.com",
+    "url": "https://github.com/sharedunityservices"
+  },
+  "dependencies": {
+    "com.sharedunityservices.core": "1.0.0"
+  }
+}
