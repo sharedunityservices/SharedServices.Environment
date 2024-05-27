@@ -1,7 +1,6 @@
-using SharedServices;
 using SharedServices.V1;
 
-namespace Services.Environment
+namespace SharedServices.Environment.V1
 {
     public interface IEnvironmentService : IService
     {

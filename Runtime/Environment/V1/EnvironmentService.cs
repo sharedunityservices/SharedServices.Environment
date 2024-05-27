@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using UnityEngine;
 
-namespace Services.Environment
+namespace SharedServices.Environment.V1
 {
     public class EnvironmentService : IEnvironmentService
     {
