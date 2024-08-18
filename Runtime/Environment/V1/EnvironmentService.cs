@@ -3,6 +3,7 @@ using UnityEngine;
 
 namespace SharedServices.Environment.V1
 {
+    [UnityEngine.Scripting.Preserve]
     public class EnvironmentService : IEnvironmentService
     {
         public string Get(string key)
